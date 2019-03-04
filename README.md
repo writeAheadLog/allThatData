@@ -1,6 +1,6 @@
 # allThatData
   - I am capturing the use cases
-  - This will be Artificial Intelligence Program
+  - This will be 
   - Use cases that are collected
     * 
     *
